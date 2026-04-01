@@ -5141,7 +5141,7 @@ label {
 @media screen and (max-width: 991px) {
   .cs_card.cs_style_1 {
     flex-direction: column;
-    align-items: start;
+    align-items: flex-start;
   }
   .cs_card.cs_style_2 {
     flex-direction: column;
@@ -6307,7 +6307,7 @@ label {
 .cs_startup_agency {
   display: flex;
   flex-direction: column;
-  align-items: end;
+  align-items: flex-end;
   margin-top: 30px;
 }
 .cs_startup_agency.cs_card {
@@ -6315,7 +6315,7 @@ label {
   padding: 50px;
   box-shadow: 0px 0px 16px 16px rgba(112, 144, 176, 0.05);
   margin-bottom: 60px;
-  align-items: start;
+  align-items: flex-start;
 }
 .cs_startup_agency.cs_card.cs_mr_left {
   position: relative;

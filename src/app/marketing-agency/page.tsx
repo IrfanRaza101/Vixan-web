@@ -26,7 +26,7 @@ import FooterOne from '@/layouts/footers/FooterOne';
 
 
 
-const index = () => {
+const Index = () => {
   const [isVideoOpen, setIsVideoOpen] = useState<boolean>(false);
 
   return (
@@ -56,4 +56,4 @@ const index = () => {
   );
 };
 
-export default index;
+export default Index;

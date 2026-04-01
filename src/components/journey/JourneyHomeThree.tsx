@@ -26,7 +26,7 @@ const JourneyHomeThree = () => {
               <span><Image src={journey_img_2} alt="Journey_story_2" /></span> for print,
               digital
               <span><Image src={journey_img_3} alt="Journey_story_3" /></span> ndenvironmental
-              mediums. Let's bring your vision to
+              mediums. Let&apos;s bring your vision to
               <span><Image src={journey_img_4} alt="Journey_story_4" /></span> life together
             </h2>
           </div>
