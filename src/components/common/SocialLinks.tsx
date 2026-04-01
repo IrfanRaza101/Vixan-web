@@ -1,4 +1,5 @@
 import Link from "next/link";
+import type { ReactElement } from "react";
 
 
 // hero social links home three
@@ -54,7 +55,7 @@ export const SocialLinks = () => {
 
 // copy right text 
 type copy_right_text_type = {
-  copy_right: JSX.Element;
+  copy_right: ReactElement;
 }
 
 const copy_right_text: copy_right_text_type = {
@@ -69,5 +70,4 @@ export const CopyRight = () => {
     <> {copy_right}</>
   )
 }
-
 
